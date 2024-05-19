@@ -88,7 +88,7 @@ Crie uma Conta AWS: [AWS Amazon Web Services](https://aws.amazon.com/pt/) &nbsp;
 <img width="500px" src="./imgs/email_recebido_1.png"><br><br>
 <a>9 - Finalizando o processo</a><br><br>
 
-## Possivéis erros e soluções
+## Possivéis erros
 <a>1 - Tempo de Execução</a><br>
 <a>2 - Erro de validação de SES</a><br>
 <a>3 - Erro de validação de IAM</a><br>
@@ -96,7 +96,7 @@ Crie uma Conta AWS: [AWS Amazon Web Services](https://aws.amazon.com/pt/) &nbsp;
 <a>5 - Email não adicionado</a><br>
 <a>6 - Email Inválido</a><br>
 
-## Possivéis erros e soluções
+## Possivéis soluções
 <a>1 - Alterar tempo nas configurações da Lambda</a><br>
 <a>2 - Verificar e Alterar informações de SES</a><br>
 <a>3 - Verificar e Alterar informações de IAM</a><br>
