@@ -1,0 +1,5 @@
+{
+    "email_to": "destinatario@email.com",
+    "subject": "Assunto do e-mail de teste",
+    "body_text": "Conteúdo do e-mail de teste"
+  }
